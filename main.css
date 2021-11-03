@@ -88,8 +88,8 @@ body {
 }
 
 img {
-  width: 120px;
-  height: 120px;
+  width: 140px;
+  height: 140px;
   border-radius: 50%;
   border: 5px solid transparent;
   padding: 1px;
@@ -107,6 +107,10 @@ img:hover {
   background-color: hsla(0, 0%, 100%, .5);
   border-radius: 4px;
   box-shadow: hsla(0, 0%, 0%, .5) 10px 10px 80px;
+}
+
+.name-headline {
+  margin-top: 20px;
 }
 
 /* Contact links */
